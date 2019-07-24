@@ -12,6 +12,16 @@ public class Solution {
 		// Assignment 3
 		Rooster rooster = new Rooster();
 		rooster.speak();
+		
+		// Assignment 4
+		Parrot parrotNearDogs = new Parrot("Woof, woof");
+		Parrot parrotNearCats = new Parrot("Meow");
+		Parrot parrotNearRooster = new Parrot("Cock-a-doodle-doo");
+		
+		parrotNearDogs.speak();
+		parrotNearCats.speak();
+		parrotNearRooster.speak();
+		
 
 	}
 
