@@ -8,6 +8,10 @@ public class Solution {
 		Bird chicken = new Chicken();
 		duck.speak();
 		chicken.speak();
+		
+		// Assignment 3
+		Rooster rooster = new Rooster();
+		rooster.speak();
 
 	}
 
