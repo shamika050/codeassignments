@@ -1,3 +1,4 @@
+Part A
 Assignment 01
 
 To optimized the solution for mainatanability I have created an Animal interface.
@@ -17,3 +18,20 @@ Assignment 04
 
 By passing the "noiseAround" as an agrument to parrot speak method, I have achived  different behaviours 
 of Parrot.
+
+Part B
+
+Assignment 01
+
+Fish will implements SwimmingAnimal interface.
+
+Assignment 02
+
+With the Specialization, by using inheritance by going down to the hirachy  fish can be specialized as a Shark and as a Clownfish.
+
+Assignment 03
+
+We can easily implement SwimmingAnimal without inheriting from Fish.
+
+By using inheritance, Compositoin and delegation we can achive less code duplication.
+
