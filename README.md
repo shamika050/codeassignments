@@ -35,3 +35,4 @@ We can easily implement SwimmingAnimal without inheriting from Fish.
 
 By using inheritance, Compositoin and delegation we can achive less code duplication.
 
+
